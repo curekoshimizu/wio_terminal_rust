@@ -5,6 +5,5 @@ edition = "2018"
 version = "0.1.0"
 
 [dependencies]
-support = { path = "support" }
 panic-halt = "0.2"
 wio_terminal = "0.3.0"
